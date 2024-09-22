@@ -1,3 +1,3 @@
-Nicolas Leonardo Miño
-DIV 313
-Turno Noche
+Alumno: Nicolas Leonardo Miño
+Division: DIV 313
+Turno: Noche
