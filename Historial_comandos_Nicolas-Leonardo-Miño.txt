@@ -1,0 +1,24 @@
+pwd
+cd
+cd repogit
+cd TP_AySO/
+cat << FIN > README.md
+Nicolas Leonardo Miño
+DIV 313
+Turno Noche
+FIN
+
+history -a
+git add nuevo_archivo.txt
+git add .
+history -a
+.bash_history "Historial_comandos_Nicolas-Leonardo-Miño.txt
+git add "Historial_comandos_Nicolas-Leonardo-Miño.txt"
+"
+"Historial_comandos_Nicolas-Leonardo-Miño.txt"
+.bash_history "Historial_comandos_Nicolas-Leonardo-Miño.txt"
+history -a
+$HOME/.bash_history
+history
+vim README.md 
+history -a
